@@ -1,11 +1,5 @@
 {
-  "posts": [
-    {
-      "id": 1,
-      "title": "hello"
-    }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  { 'rulename': "must be 5 characters"},
+  { 'rulename': "must not be a used element"},
+  { 'rulename': "must be cool"}
 }
